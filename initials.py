@@ -4,7 +4,7 @@ def main():
 
 # File: initials.py
 # Description: Print out my initials.
-# Assignment Number: 2
+# Assignment Number: 1
 #
 # Name: Solomon Adu Atefoe
 # STUDENT ID:  2425404069
