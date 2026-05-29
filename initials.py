@@ -14,10 +14,9 @@ def main():
 # On my honor, Solomon Adu Atefoe, this programming assignment is my own work
 # and I have not provided this code to any other student.
 
-
 print("...SAA")
 print()
-print()
+
 print(".....SSSSSSSSS........AAAAAAAAAAAA........AAAAAAAAAAAA.....")
 print("....SSSSSSSSSS........AA........AA........AA........AA.....")
 print("...SSSS...............AA........AA........AA........AA.....")
@@ -28,8 +27,5 @@ print("..........SSSS........AA........AA........AA........AA.....")
 print("..........SSSS........AA........AA........AA........AA.....")
 print("...SSSSSSSSSSS...**...AA........AA...**...AA........AA...**")
 print("...SSSSSSSSSS....**...AA........AA...**...AA........AA...**")
-
-
-
 
 main()
