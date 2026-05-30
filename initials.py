@@ -12,7 +12,8 @@ def main():
   #
   # On my honor, Solomon Adu Atefoe, this programming assignment is my own work
   # and I have not provided this code to any other student.
-
+  
+  print()
   print("...SAA")
   print()
 
@@ -26,6 +27,6 @@ def main():
   print("..........SSSS........AA........AA........AA........AA.....")
   print("...SSSSSSSSSSS...**...AA........AA...**...AA........AA...**")
   print("...SSSSSSSSSS....**...AA........AA...**...AA........AA...**")
-
+  print()
 
 main()
