@@ -1,6 +1,3 @@
-
-def main():
-  
   # File: initials.py
   # Description: Print out my initials.
   # Assignment Number: 2
@@ -12,7 +9,11 @@ def main():
   #
   # On my honor, Solomon Adu Atefoe, this programming assignment is my own work
   # and I have not provided this code to any other student.
-  
+
+
+def main():
+  #This is my first python class program(not my first python program), this program helps me get use to the print function by outputing the initials of my name...
+
   print()
   print("...SAA")
   print()
@@ -28,5 +29,6 @@ def main():
   print("...SSSSSSSSSSS...**...AA........AA...**...AA........AA...**")
   print("...SSSSSSSSSS....**...AA........AA...**...AA........AA...**")
   print()
+
 
 main()
