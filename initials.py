@@ -12,7 +12,7 @@
 
 
 def main():
-  #This is my first python class program(not my first python program), this program helps me get use to the print function by outputing the initials of my name...
+  # This is my first python class program(not my first python program), this program helps me get use to the print function by outputing the initials of my name...
 
   print()
   print("...SAA")
